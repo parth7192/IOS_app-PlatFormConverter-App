@@ -1,16 +1,6 @@
 # ios_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/user-attachments/assets/a0fa759e-9676-44e1-b366-5f6647a3aa96" width = "250">
+<img src = "https://github.com/user-attachments/assets/3b1b0e94-d3d9-4f4d-bae3-77341a1911b3" width = "250">
+<img src = "https://github.com/user-attachments/assets/282d7863-4f55-432e-b0df-bbf11364cc95" width = "250">
+<img src = "https://github.com/user-attachments/assets/4ca7dd98-66de-4acd-b634-09a6bc67a83d" width = "250">
